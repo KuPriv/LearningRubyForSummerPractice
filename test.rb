@@ -1,2 +1,2 @@
-puts 'HEllo world'
-puts 'HEllo CDG students'
+a = {"egor" => "Egor", "color" => "roro"}
+puts a["egor"]
